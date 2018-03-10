@@ -1,3 +1,1 @@
 # SimpleWork
-
-Customer Portfolio Site
